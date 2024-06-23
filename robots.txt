@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dagimark.github.io/sitemap.xml
